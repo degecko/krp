@@ -26,7 +26,7 @@ Some shortcuts: `b64`, `b32`, `b16`, `r13` and `bin`
 
 	The string decoded using the specified cipher
 
-The same rules apply for piping, just omit the <string>
+The same rules apply for piping, just omit the `<string>`
 
 E.g.:
 `cat /etc/hosts | krp md5`
