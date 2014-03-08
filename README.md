@@ -1,8 +1,20 @@
 krp
 ===
 
-K R Y P T O N - CLI Encryption Tool
+Installation:
+------
+
+```
+$ mkdir ~/.krypton && cd ~/.krypton
+$ curl -o krp.py https://raw.github.com/g3x0/krp/master/krp.py
+$ chmod +x krp.py 
+$ ln -s ~/.krypton/krp.py /usr/local/bin/krp
+```
+
 Usage:
+------
+
+K R Y P T O N - CLI Encryption Tool
 
 Available ciphers & hashing algorithms:
 `base64`, `base32`, `base16`, `binary`, `hex`, `ascii`, `rot13`, `url`, `md5`, `sha1`, `sha224`, `sha256`, `sha384`, `sha512`
