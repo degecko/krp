@@ -6,6 +6,7 @@ Usage:
 
 Available ciphers & hashing algorithms:
 `base64`, `base32`, `base16`, `binary`, `hex`, `ascii`, `rot13`, `url`, `md5`, `sha1`, `sha224`, `sha256`, `sha384`, `sha512`
+
 Some shortcuts: `b64`, `b32`, `b16`, `r13` and `bin`
 
 `krp <string>`
